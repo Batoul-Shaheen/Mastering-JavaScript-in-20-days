@@ -21,18 +21,15 @@ In this challenge, I will enhance your JavaScript skills and knowledge. Each day
 
 
 ## Daily Learning Process
-1. Each day, you will watch 90 minutes of the assigned courses listed above.
+1. Each day, I will watch 90 minutes of the assigned courses listed above.
 2. Solve all the JavaScript coding challenges that will be provided by the GSG team.
-3. Summarize your daily learning and document your challenge solutions on a separate readme page.
-4. Repeat the process for the next 20 days, gradually advancing your JavaScript skills.
-
+3. I will Summarize my daily learning and document my challenge solutions on a separate readme page.
+4. I will  Repeat the process for the next 20 days, gradually advancing my JavaScript skills.
 
 ## Guidelines
-- Commit to a consistent schedule and allocate sufficient time each day to complete the learning activities.
-- Take notes, document your progress, and maintain a personal learning log throughout the challenge.
-- Experiment, explore, and don't be afraid to make mistakes. Learning comes from both successes and failures.
-- Engage with the other GSG trainees. Seek support, share insights, and collaborate with fellow learners using the dedicated discussion telegram channel.
-- Celebrate your achievements and reflect on your growth throughout the challenge.
+- I will Commit to a consistent schedule and allocate sufficient time each day to complete the learning activities.
+- I will Take notes, document my progress, and maintain a personal learning log throughout the challenge.
+- I will Engage with the other GSG trainees & Seek support, share insights, and collaborate with fellow learners using the dedicated discussion telegram channel.
 
 ## Folder Structure
 - [**Day 1**](https://github.com/Batoul-Shaheen/Mastering-JavaScript-in-20-days/blob/a30d58cfb85aa29007b0eb1917930a6871ee8db3/Day%201.md)
