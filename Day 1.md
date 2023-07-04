@@ -41,3 +41,34 @@ document.querySelector("#p2-name").textContent = "Lamees"
 document.getElementById("#p1-symbol").textContent = "A"
 document.getElementById("#p2-symbol").textContent = "L"
 document.querySelector("header h2").textContent = "A game you know and love"
+
+```
+
+#### Challenges:
+```java script
+//Example1: Compound Assignment With Augmented Multiplication
+let a = 5;
+let b = 12;
+let c = 4.6;
+
+// Only change code below this line
+a *= 5;
+b *= 3;
+c *= 10;
+
+//Example2: Concatenating Strings with the Plus Equals Operator
+let myStr = "This is the first sentence. ";
+myStr += "This is the second sentence.";
+
+//Example3:
+// Setup
+const lastName = "Lovelace";
+
+// Only change code below this line
+const secondToLastLetterOfLastName = lastName[lastName.length - 2]; // Change this line
+
+```
+
+
+
+
