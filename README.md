@@ -18,13 +18,6 @@ In this challenge, I will enhance your JavaScript skills and knowledge. Each day
 ## Coding Challenges
 [Basic JavaScript, first challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code)
 
-[ES6, first challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/compare-scopes-of-the-var-and-let-keywords)
-
-[Regular Expressions, first challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/using-the-test-method)
-
-[Debugging, first challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-the-javascript-console-to-check-the-value-of-a-variable)
-
-[Basic Data Structures, first challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/use-an-array-to-store-a-collection-of-data)
 
 
 ## Daily Learning Process
