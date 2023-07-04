@@ -26,9 +26,6 @@ In this challenge, I will enhance your JavaScript skills and knowledge. Each day
 3. Summarize your daily learning and document your challenge solutions on a separate readme page.
 4. Repeat the process for the next 20 days, gradually advancing your JavaScript skills.
 
-### Folder Structure:
-- [**Day 1**](https://github.com/Batoul-Shaheen/Mastering-JavaScript-in-20-days/blob/a30d58cfb85aa29007b0eb1917930a6871ee8db3/Day%201.md)
-
 
 ## Guidelines
 - Commit to a consistent schedule and allocate sufficient time each day to complete the learning activities.
@@ -38,3 +35,4 @@ In this challenge, I will enhance your JavaScript skills and knowledge. Each day
 - Celebrate your achievements and reflect on your growth throughout the challenge.
 
 ## Folder Structure
+- [**Day 1**](https://github.com/Batoul-Shaheen/Mastering-JavaScript-in-20-days/blob/a30d58cfb85aa29007b0eb1917930a6871ee8db3/Day%201.md)
