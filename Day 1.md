@@ -46,7 +46,7 @@ document.querySelector("header h2").textContent = "A game you know and love"
 
 #### Challenges:
 ```java script
-//Example1: Compound Assignment With Augmented Multiplication
+//Exercise1: Compound Assignment With Augmented Multiplication
 let a = 5;
 let b = 12;
 let c = 4.6;
@@ -56,11 +56,11 @@ a *= 5;
 b *= 3;
 c *= 10;
 
-//Example2: Concatenating Strings with the Plus Equals Operator
+//Exercise2: Concatenating Strings with the Plus Equals Operator
 let myStr = "This is the first sentence. ";
 myStr += "This is the second sentence.";
 
-//Example3:
+//Exercise3:
 // Setup
 const lastName = "Lovelace";
 
