@@ -33,3 +33,4 @@ In this challenge, I will enhance your JavaScript skills and knowledge. Each day
 
 ## Folder Structure
 - [**Day 1**](https://github.com/Batoul-Shaheen/Mastering-JavaScript-in-20-days/blob/a30d58cfb85aa29007b0eb1917930a6871ee8db3/Day%201.md)
+- [**Day 2**](https://github.com/Batoul-Shaheen/Mastering-JavaScript-in-20-days/blob/d4d6dadcfa8c975c4c196d9eaf69a8de34dcfc0f/Day%202.md)
