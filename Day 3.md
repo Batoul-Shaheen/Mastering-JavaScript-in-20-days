@@ -2,7 +2,7 @@
 
 Expression & Arrays 
 
-# Lesson Summary:
+## Lesson Summary:
 
 in JavaScript, you can declare variables with the var, let, and const keywords.
 
@@ -27,6 +27,70 @@ in JavaScript, you can declare variables with the var, let, and const keywords.
 **mutable vs. immutable**
  - "Mutable" data can be edited (e.g. Arrays), "Immutable" data is always the same (e.g. string & other primitives)
  - if u have the choice, using immutable data & variables is usually best.
-  
+
+### Challenges:
+
+```javascript
+//Exercise1: Profile Lookup
+const contacts = [
+  {
+    firstName: "Akira",
+    lastName: "Laine",
+    number: "0543236543",
+    likes: ["Pizza", "Coding", "Brownie Points"],
+  },
+  {
+    firstName: "Harry",
+    lastName: "Potter",
+    number: "0994372684",
+    likes: ["Hogwarts", "Magic", "Hagrid"],
+  },
+  {
+    firstName: "Sherlock",
+    lastName: "Holmes",
+    number: "0487345643",
+    likes: ["Intriguing Cases", "Violin"],
+  },
+  {
+    firstName: "Kristian",
+    lastName: "Vos",
+    number: "unknown",
+    likes: ["JavaScript", "Gaming", "Foxes"],
+  },
+];
+
+function lookUpProfile(name, prop) {
+  // Only change code below this line
+  for(let i=0 ; i < contacts.length ; i++){
+  if (contacts[i].firstName === name){
+    if (prop in contacts[i]){
+    return contacts[i][prop];
+    }else {
+     return "No such property";
+    }
+   }
+  }
+  return"No such contact";
+  // Only change code above this line
+}
+lookUpProfile("Akira", "likes");
+
+//Exercise2: Copy Array Items Using slice()
+function forecast(arr) {
+  // Only change code below this line
+  return arr.slice(2, 4);
+}
+// Only change code above this line
+console.log(forecast(['cold', 'rainy', 'warm', 'sunny', 'cool', 'thunderstorms']));
+
+//Exercise3: Combine Arrays with the Spread Operator
+function spreadOut() {
+  let fragment = ['to', 'code'];
+  let sentence = ['learning', ...fragment, 'is', 'fun' ]; // Change this line
+  return sentence;
+}
+console.log(spreadOut());
+```
+
 
   
