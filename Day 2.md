@@ -1,4 +1,4 @@
-# Day2:💻
+# Day2: 💻
  On this day I will talk about values, Data Types & Operator
 
 
