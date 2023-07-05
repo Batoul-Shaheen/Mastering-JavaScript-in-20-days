@@ -37,66 +37,29 @@ you should almost always use the strict version
 
   
 ### Challenges:
-```javascript
-//Exercise1: Profile Lookup
-const contacts = [
-  {
-    firstName: "Akira",
-    lastName: "Laine",
-    number: "0543236543",
-    likes: ["Pizza", "Coding", "Brownie Points"],
-  },
-  {
-    firstName: "Harry",
-    lastName: "Potter",
-    number: "0994372684",
-    likes: ["Hogwarts", "Magic", "Hagrid"],
-  },
-  {
-    firstName: "Sherlock",
-    lastName: "Holmes",
-    number: "0487345643",
-    likes: ["Intriguing Cases", "Violin"],
-  },
-  {
-    firstName: "Kristian",
-    lastName: "Vos",
-    number: "unknown",
-    likes: ["JavaScript", "Gaming", "Foxes"],
-  },
-];
 
-function lookUpProfile(name, prop) {
-  // Only change code below this line
-  for(let i=0 ; i < contacts.length ; i++){
-  if (contacts[i].firstName === name){
-    if (prop in contacts[i]){
-    return contacts[i][prop];
-    }else {
-     return "No such property";
-    }
-   }
-  }
-  return"No such contact";
-  // Only change code above this line
-}
-lookUpProfile("Akira", "likes");
+```java script
+//Exercise1: Compound Assignment With Augmented Multiplication
+let a = 5;
+let b = 12;
+let c = 4.6;
 
-//Exercise2: Copy Array Items Using slice()
-function forecast(arr) {
-  // Only change code below this line
-  return arr.slice(2, 4);
-}
-// Only change code above this line
-console.log(forecast(['cold', 'rainy', 'warm', 'sunny', 'cool', 'thunderstorms']));
+// Only change code below this line
+a *= 5;
+b *= 3;
+c *= 10;
 
-//Exercise3: Combine Arrays with the Spread Operator
-function spreadOut() {
-  let fragment = ['to', 'code'];
-  let sentence = ['learning', ...fragment, 'is', 'fun' ]; // Change this line
-  return sentence;
-}
-console.log(spreadOut());
+//Exercise2: Concatenating Strings with the Plus Equals Operator
+let myStr = "This is the first sentence. ";
+myStr += "This is the second sentence.";
+
+//Exercise3:
+// Setup
+const lastName = "Lovelace";
+
+// Only change code below this line
+const secondToLastLetterOfLastName = lastName[lastName.length - 2]; // Change this line
+
 ```
 
 
