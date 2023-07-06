@@ -12,7 +12,7 @@ DOM (Document Object Model)
 - document.getElementsByClassName("player") || document.querySelectorAll(".player"): all the elements with class = "player".
 - document.getElementsByClassName("player").length || document.querySelectorAll(".player").length: number of elements with class = "player".
 - document.getElementById("p1-name").textContent: the text inside the element with id = "p1-name".
-- 
+  
 **- Editing the DOM with JS:**
 - document.title="New Title": change the page title
 - document.getElementById("#p1-name").textContent="batool": replace the text of the #p1-name element.
