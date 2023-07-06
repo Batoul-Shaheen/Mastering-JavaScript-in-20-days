@@ -1,4 +1,4 @@
-# Day 4:
+# Day 4:  💻
 
 Objects, Function, Arrow Functions & scope.
 
