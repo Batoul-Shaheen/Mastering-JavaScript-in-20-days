@@ -29,9 +29,10 @@ in JavaScript, you can declare variables with the var, let, and const keywords.
  - if u have the choice, using immutable data & variables is usually best.
 
 ### Challenges:
+### [Profile Lookup:](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
+#### My Solution
+```
 
-```javascript
-//Exercise1: Profile Lookup
 const contacts = [
   {
     firstName: "Akira",
@@ -74,16 +75,24 @@ function lookUpProfile(name, prop) {
   // Only change code above this line
 }
 lookUpProfile("Akira", "likes");
+```
 
-//Exercise2: Copy Array Items Using slice()
+### [Copy Array Items Using slice():](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice)
+#### My Solution
+```
+
 function forecast(arr) {
   // Only change code below this line
   return arr.slice(2, 4);
 }
 // Only change code above this line
 console.log(forecast(['cold', 'rainy', 'warm', 'sunny', 'cool', 'thunderstorms']));
+```
 
-//Exercise3: Combine Arrays with the Spread Operator
+### [Combine Arrays with the Spread Operator:](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/combine-arrays-with-the-spread-operator)
+#### My Solution
+```
+
 function spreadOut() {
   let fragment = ['to', 'code'];
   let sentence = ['learning', ...fragment, 'is', 'fun' ]; // Change this line
