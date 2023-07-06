@@ -4,14 +4,14 @@ DOM (Document Object Model)
   
 ## Lesson Summary:
 
-- document.body: the body element.
-- document.title: the page title.
+- document.body: represent body element.
+- document.title: represnt page title.
 - document.body.children: all the elements within the body.
-- document.getElementById("board") || document.querySelector("#board"): the first element with id "board".
+- document.getElementById("board") || document.querySelector("#board"): the first element.
 - document.getElementsByTagName("h1") ||  document.querySelectorAll("h1"): all the h1 elements.
-- document.getElementsByClassName("player") || document.querySelectorAll(".player"): all the elements with class = "player".
-- document.getElementsByClassName("player").length || document.querySelectorAll(".player").length: number of elements with class = "player".
-- document.getElementById("p1-name").textContent: the text inside the element with id = "p1-name".
+- document.getElementsByClassName("player") || document.querySelectorAll(".player"): all the elements.
+- document.getElementById("p1-name").textContent: the text inside the element.
+- .length: number of elements. 
   
 **- Editing the DOM with JS:**
 - document.title="New Title": change the page title
