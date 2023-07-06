@@ -1,7 +1,7 @@
-# Day 1: 💪💻
-  DOM (Document Object Model)
+# Day 1: 💻
 
-
+DOM (Document Object Model) 
+  
 ## Lesson Summary:
 
 - document.body: the body element.
