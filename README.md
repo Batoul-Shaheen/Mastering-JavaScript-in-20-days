@@ -1,5 +1,5 @@
 
-# Gaza Sky Geeks Learning Sprint - 20-Day Learning JavaScript Challenge
+# 🎖️ Gaza Sky Geeks Learning Sprint - 20-Day Learning JavaScript Challenge
 
 Welcome to the 20-Day Learning JavaScript Challenge! 🚀
 
@@ -36,3 +36,4 @@ In this challenge, I will enhance your JavaScript skills and knowledge. Each day
 - [**Day 2**](https://github.com/Batoul-Shaheen/Mastering-JavaScript-in-20-days/blob/d4d6dadcfa8c975c4c196d9eaf69a8de34dcfc0f/Day%202.md)
 - [**Day 3**](https://github.com/Batoul-Shaheen/Mastering-JavaScript-in-20-days/blob/main/Day%203.md).
 - [**Day 4**](https://github.com/Batoul-Shaheen/Mastering-JavaScript-in-20-days/blob/25a84118ef8a9a69026e9c1dcd6053e41d3da0e3/Day%204.md)
+- [**Day 5**](https://github.com/Batoul-Shaheen/Mastering-JavaScript-in-20-days/blob/c1a194a3987368159aea6109d3980971ded3482c/Day%205.md)
