@@ -70,6 +70,15 @@ filter(callbackFn, thisArg)
 ```
 `Spread (...)` We can use it to put all the items from one array inside another array & also use it to pass all the items from an array as arguments to a function or method
 
+`JS can only do one task at a time`
+
+- Some things that take time:
+
+1. Waiting for user events
+2. Asking a user to pick a file
+3. Getting permission to access the camera/mic
+4. Loading data from the interwebs
+
 
 ## Challenges:
 
