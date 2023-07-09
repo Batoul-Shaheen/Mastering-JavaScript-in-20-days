@@ -1,4 +1,4 @@
-# Day7: 
+# Day7: 💻
 
 Modules & Debugging.
 
