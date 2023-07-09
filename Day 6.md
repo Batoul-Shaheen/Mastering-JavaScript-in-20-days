@@ -1,6 +1,6 @@
 # Day 6: 💻
 
-Data Fetching & Promises, Destructuring Data.
+Data Fetching & Promises, Destructuring Data, Async.
 
 ## Lesson Summary:
 
@@ -83,4 +83,17 @@ const [,,melB] = spices;
 
 ```javascript
 const [babySpice, ...adultSpices] = spices;
+```
+
+### Async:
+
+- we need to make `async fun` to use awit in the function.
+
+#### syntax:
+
+```javascript
+async function fetchResponse(url) {
+    const response = await fetch(url);
+    return response;
+}
 ```
