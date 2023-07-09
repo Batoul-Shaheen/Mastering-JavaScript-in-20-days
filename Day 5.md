@@ -82,6 +82,96 @@ filter(callbackFn, thisArg)
 
 ## Challenges:
 
+```javascript
+const characterList = document.getElementById("characterList");
+
+async function fetchCharacters() {
+  try {
+    const response = await fetch("https://rickandmortyapi.com/api/character?status=alive");
+    if (!response.ok) {
+      throw new Error("Error fetching character data");
+    }
+    const data = await response.json();
+    const characters = data.results.slice(0, 50);
+
+    characters.forEach((character) => {
+      const li = document.createElement("li");
+      const img = document.createElement("img");
+      const name = document.createElement("p");
+      const location = document.createElement("p");
+      const species = document.createElement("p");
+      const gender = document.createElement("p");
+
+      img.src = character.image;
+      name.textContent = `Name: ${character.name}`;
+      location.textContent = `Location: ${character.location.name}`;
+      species.textContent = `Species: ${character.species}`;
+      gender.textContent = `Gender: ${character.gender}`;
+
+      li.appendChild(img);
+      li.appendChild(name);
+      li.appendChild(location);
+      li.appendChild(species);
+      li.appendChild(gender);
+
+      characterList.appendChild(li);
+    });
+  } catch (error) {
+    const errorMessage = document.createElement("p");
+    errorMessage.textContent = "Error fetching character data";
+    characterList.appendChild(errorMessage);
+  }
+}
+
+window.onload = fetchCharacters;
+```
+
+```CSS
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-color: gainsboro;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+  color:black;
+  font-size: 48px;
+  text-align: center;
+  margin: 40px;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+p {
+  margin: 0;
+}
+```
+
+
 
 
 
