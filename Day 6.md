@@ -1,6 +1,6 @@
 # Day 6: 💻
 
-Data Fetching & Promises, Destructuring Data, Async.
+Data Fetching & Promises, Destructuring Data.
 
 ## Lesson Summary:
 
