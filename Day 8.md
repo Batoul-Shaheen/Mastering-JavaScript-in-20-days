@@ -1,4 +1,4 @@
-# Day 8:
+# Day 8: 💻
 
 JavaScript principles & Functions & Callbacks.
 
