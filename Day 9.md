@@ -13,8 +13,7 @@ What can we call this `‘backpack’`?
 - ‘Closure’
 
 ## Challenges:
-
-##### (https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/f1770252e28aab81cc91fe65db1ef2cf1dca6b37/learning-sprint-1/week2-day2-tasks/tasks.md)
+#### [Questions for closure](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/f1770252e28aab81cc91fe65db1ef2cf1dca6b37/learning-sprint-1/week2-day2-tasks/tasks.md)
 
 #### [Question 1] 
 ##### my solution:
