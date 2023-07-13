@@ -1,4 +1,4 @@
-# Day 10:
+# Day 10: 💻
 
 **Asynchronous JavaScript & the event loop**
 
