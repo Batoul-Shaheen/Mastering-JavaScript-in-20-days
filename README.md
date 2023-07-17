@@ -40,3 +40,4 @@ In this challenge, I will enhance your JavaScript skills and knowledge. Each day
 - [**Day 6**](https://github.com/Batoul-Shaheen/Mastering-JavaScript-in-20-days/blob/035d626fc75d3d403c69e83bf534d4102bc2a35a/Day%206.md)
 - [**Day 7**](https://github.com/Batoul-Shaheen/Mastering-JavaScript-in-20-days/blob/806779a63f85a5e37cc4bc7d3d867845859b35a6/Day%207.md)
 - [**Day 8**](https://github.com/Batoul-Shaheen/Mastering-JavaScript-in-20-days/blob/6cbc290e4f81e2b4c397750a3562d7b8dfd976b3/Day%208.md)
+- [**Day 9**](https://github.com/Batoul-Shaheen/Mastering-JavaScript-in-20-days/blob/56f34318a5cc7750901f935295efd1c58699bee6/Day%209.md)
