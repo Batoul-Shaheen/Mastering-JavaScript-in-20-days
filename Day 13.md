@@ -1,4 +1,4 @@
-# Day 13:
+# Day 13: 💻
 
 **Static typing & scope**
 
