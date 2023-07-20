@@ -20,7 +20,7 @@
 ## Challenges:
 ##### [Questions](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week3-day4-tasks/tasks.md
 
-##### ADVANCED SCOPE:
+#### ADVANCED SCOPE:
 ##### QUESTION 1:
 ##### My solution :
 
@@ -60,7 +60,7 @@ for (let i = 0; i < 5; i++) {
 functions.forEach((func) => func());
 ```
 
-##### Clouser
+#### Clouser
 ##### Question 1:
 ##### My solution:
 
